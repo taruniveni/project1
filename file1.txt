@@ -1,0 +1,3 @@
+n = int(input("Enter n: ")
+print("countdown: 54321 ", end = "Blast off! ")
+
